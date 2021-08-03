@@ -24,3 +24,4 @@ In That Database, Import the SQL file and finally go to URL: “http://localhost
 (Don’t Forget To create a database and import SQL file to run.)
 
 ***********************BEST OF LUCK****************************
+
